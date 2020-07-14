@@ -39,6 +39,7 @@ nav li a:hover{
 .main_section{
   padding: 15%;
   text-align: center;
+  border: 1px solid red;
 }
 
 .productos{
@@ -46,14 +47,20 @@ nav li a:hover{
   height: 200px;
   background-size:  cover;
   background-position: center top;
-  padding: 20px;
+  padding: 15%;
   display: flex;
+  border: 1px solid red;
+}
+
+.producto {
+  padding: 10px;
+  border: 1px solid red;
 }
 
 .producto .content{
   background-color: blanchedalmond;
   padding: 20px;
-
+  border: 1px solid red;
 }
 
 
